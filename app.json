@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-reviews",
-    "slug": "react-native-reviews",
+    "name": "react-native-todos",
+    "slug": "react-native-todos",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
